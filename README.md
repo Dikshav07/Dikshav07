@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dikshav07&label=Profile%20views&color=0e75b6&style=flat" alt="dikshav07" /> </p>
 
-- 🔭 I’m currently working on **MEARN Stack!**
+- 🔭 I’m currently working on **MERN Stack!**
 
 - 🌱 I’m currently learning **React native and Machine learning😎**
 
