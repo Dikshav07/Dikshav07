@@ -1,4 +1,3 @@
-![Screenshot (36)](https://github.com/user-attachments/assets/2994a16f-1e10-4b44-93fc-d745f9fea0e8)
 <h1 align="center">Hi 👋, I'm Diksha Verma</h1>
 <h3 align="center">A passionate Software engineer from India</h3>
 
