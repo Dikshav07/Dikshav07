@@ -1,32 +1,187 @@
-<h1 align="center">Hi 👋, I'm Diksha Verma</h1>
-<h3 align="center">A Software engineer from India</h3>
+# <div align="center">
+# 
+# ![Header](https://img.shields.io/badge/Software%20Developer-Full%20Stack%20%26%20AI%2FLLM-blue?style=for-the-badge&logo=github)
+# 
+# ### 👋 Welcome to My GitHub!
+# 
+# **Building the future with Frontend, Backend, AI & LLMs** 🚀
+# 
+# </div>
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif">
+---
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dikshav07&label=Profile%20views&color=0e75b6&style=flat" alt="dikshav07" /> </p>
+## 🎯 About Me
 
-- 🔭 I’m currently working on **MERN Stack!**
+<div align="center">
+  
+  ```
+  ╔════════════════════════════════════════╗
+  ║  Software Developer | AI Enthusiast    ║
+  ║  Night Owl Coder 🦉 | Problem Solver  ║
+  ╚════════════════════════════════════════╝
+  ```
 
-- 🌱 I’m currently learning **React native and Machine learning😎**
+</div>
 
-- 💬 Ask me about **Web Development and AI/ML**
+I'm a **Software Developer** passionate about building innovative solutions at the intersection of **Frontend**, **Backend**, **AI**, and **LLMs**. This is where I share my work, ideas, and experiments with the community.
 
-- 📫 How to reach me **dikshav737@gmail.com**
+I enjoy solving complex problems, learning cutting-edge technologies, and pushing the boundaries of what's possible with modern software development. Whether it's crafting responsive user interfaces, architecting robust backend systems, or diving deep into AI/LLM applications—I'm always ready for the next challenge.
 
-- ⚡ Fun fact **My code works... as long as nobody touches it!😅**
+**Fun Fact:** 🦉 *Certified night owl — my best code (and worst decisions) both happen after midnight.*
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/diksha-verma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="diksha-verma" height="30" width="40" /></a>
-<a href="https://kaggle.com/diksha97" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="diksha97" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/diksha_97" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="diksha_97" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+## 💻 Technical Skills
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dikshav07&show_icons=true&locale=en&layout=compact" alt="dikshav07" /></p>
+<table align="center">
+  <tr>
+    <td align="center" width="25%">
+      <h3>🎨 Frontend</h3>
+      <p>React • Vue.js • JavaScript<br>Responsive Design • UI/UX</p>
+    </td>
+    <td align="center" width="25%">
+      <h3>⚙️ Backend</h3>
+      <p>Node.js • Express • Python<br>RESTful APIs • Database Design</p>
+    </td>
+    <td align="center" width="25%">
+      <h3>🤖 AI & LLMs</h3>
+      <p>Large Language Models<br>Prompt Engineering • Model Integration</p>
+    </td>
+    <td align="center" width="25%">
+      <h3>🔧 DevOps</h3>
+      <p>Docker • AWS • Git<br>CI/CD Pipelines • GitHub Actions</p>
+    </td>
+  </tr>
+</table>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dikshav07&show_icons=true&locale=en" alt="dikshav07" /></p>
+### 💾 Databases & Tools
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dikshav07&" alt="dikshav07" /></p>
+```
+PostgreSQL  |  MongoDB  |  Firebase  |  Vector Databases
+```
+
+---
+
+## 🤖 Current Focus
+
+<div align="center">
+
+### **Agentic AI** 🚀
+
+*Building intelligent agents that can autonomously reason, plan, and execute tasks*
+
+</div>
+
+```
+📊 Key Interests:
+├── 🔍 AI Agent Architecture & Design
+├── 🧠 LLM Integration in Production
+├── ⚙️ Autonomous Task Execution
+├── 🌐 Multi-Agent Systems
+└── 💡 Prompt Engineering & Optimization
+```
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+### My GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dikshav07&show_icons=true&theme=radical&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dikshav07&layout=compact&theme=radical&hide_border=true)
+
+</div>
+
+---
+
+## 🎯 What You'll Find Here
+
+<table>
+  <tr>
+    <td>🤖</td>
+    <td><strong>AI & LLM Projects</strong></td>
+    <td>Experiments with cutting-edge AI technologies</td>
+  </tr>
+  <tr>
+    <td>💻</td>
+    <td><strong>Full-Stack Applications</strong></td>
+    <td>End-to-end web applications & systems</td>
+  </tr>
+  <tr>
+    <td>🔧</td>
+    <td><strong>Tools & Utilities</strong></td>
+    <td>Handy tools that solve real problems</td>
+  </tr>
+  <tr>
+    <td>📚</td>
+    <td><strong>Learning Resources</strong></td>
+    <td>Documentation and knowledge sharing</td>
+  </tr>
+</table>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=safari&logoColor=white)](https://portfolio.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+
+</div>
+
+---
+
+## 💬 Let's Collaborate!
+
+I'm always interested in discussing:
+- 🤖 AI, LLMs & Agentic Systems
+- 💻 Full-stack Development
+- 🔬 Innovative Tech Solutions
+- 🚀 Open-source Contributions
+
+Feel free to explore my repositories and reach out if you'd like to chat about code, AI, or anything tech-related!
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+```
+🔥 Most Active in: [Frontend • Backend • AI]
+💡 Current Streak: Keep building! 🚀
+⭐ Open to: Collaborations & Mentorship
+```
+
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ If you find my projects helpful, a star would be much appreciated!
+
+```
+╔═══════════════════════════════════╗
+║   Happy Coding! 🚀               ║
+║   Let's Build Something Amazing!  ║
+╚═══════════════════════════════════╝
+```
+
+**Last Updated:** June 2026
+
+</div>
+
+---
+
+<div align="center">
+
+![Visitors](https://visitcount.itsvg.in/api?id=Dikshav07&icon=0&color=0)
+
+</div>
