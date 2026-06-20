@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Diksha Verma
 
-**Software Developer** | Frontend • Backend • AI & ML | Night Owl Coder 🦉
+**Software Developer** | Frontend • Backend • AI & ML 
 
 📧 **Reach out:** [dikshav737@gmail.com](mailto:dikshav737@gmail.com)
 
@@ -34,7 +34,13 @@
 - 📚 NLP & Advanced AI Applications
 
 ---
+---
 
+## 🌙 About Me
+
+Certified night owl — my best code (and worst decisions) both happen after midnight.
+
+---
 
 ## 📊 GitHub Analytics
 
