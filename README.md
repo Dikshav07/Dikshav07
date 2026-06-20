@@ -33,20 +33,6 @@
 
 ---
 
-## 🎯 What You'll Find Here
-
-| 💻 Full-Stack Projects | 🔧 Backend Systems | 🎨 Frontend Applications | 🤖 AI/ML Experiments | 📚 Learning Resources |
-|---|---|---|---|---|
-
----
-
-## 🌐 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter)](https://twitter.com)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail)](mailto:dikshav737@gmail.com)
-
----
 
 ## 📊 GitHub Analytics
 
