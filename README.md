@@ -4,7 +4,7 @@
 # 
 # ### 👋 Welcome to My GitHub!
 # 
-# **Building the future with Frontend, Backend, ML & LLMs** 🚀
+# **Building the future with Frontend, Backend, AI & ML** 🚀
 # 
 # </div>
 
