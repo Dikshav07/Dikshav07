@@ -1,9 +1,7 @@
 # <div align="center">
-# 
 # ![Header](https://img.shields.io/badge/Software%20Developer-Full%20Stack%20%26%20AI%2FLLM-blue?style=for-the-badge&logo=github)
 # 
 # ### 👋 Welcome to My GitHub!
-# 
 # **Building the future with Frontend, Backend, AI & LLMs** 🚀
 # 
 # </div>
@@ -94,56 +92,6 @@ PostgreSQL  |  MongoDB  |  Firebase  |  Vector Databases
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dikshav07&layout=compact&theme=radical&hide_border=true)
 
 </div>
-
----
-
-## 🎯 What You'll Find Here
-
-<table>
-  <tr>
-    <td>🤖</td>
-    <td><strong>AI & LLM Projects</strong></td>
-    <td>Experiments with cutting-edge AI technologies</td>
-  </tr>
-  <tr>
-    <td>💻</td>
-    <td><strong>Full-Stack Applications</strong></td>
-    <td>End-to-end web applications & systems</td>
-  </tr>
-  <tr>
-    <td>🔧</td>
-    <td><strong>Tools & Utilities</strong></td>
-    <td>Handy tools that solve real problems</td>
-  </tr>
-  <tr>
-    <td>📚</td>
-    <td><strong>Learning Resources</strong></td>
-    <td>Documentation and knowledge sharing</td>
-  </tr>
-</table>
-
----
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=safari&logoColor=white)](https://portfolio.com)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-
-</div>
-
----
-
-## 💬 Let's Collaborate!
-
-I'm always interested in discussing:
-- 🤖 AI, LLMs & Agentic Systems
-- 💻 Full-stack Development
-- 🔬 Innovative Tech Solutions
-- 🚀 Open-source Contributions
 
 Feel free to explore my repositories and reach out if you'd like to chat about code, AI, or anything tech-related!
 
