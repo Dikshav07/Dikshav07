@@ -10,8 +10,8 @@
 
 | **Frontend** | **Backend** | **DevOps & Tools** | **AI & ML** |
 |---|---|---|---|
-| React • Vue.js • JavaScript | Node.js • Express • Python | Docker • AWS • Git • CI/CD | Machine Learning • NLP |
-| Responsive Design • UI/UX | RESTful APIs • Databases | GitHub Actions | Data Science |
+| React • TypeScript • JavaScript | Node.js • Express • Python | Docker • AWS • Git • CI/CD | Machine Learning • NLP |
+| Responsive Design • State Management |  API Development • Databases | GitHub Actions | Data Science |
 
 ---
 
@@ -19,7 +19,7 @@
 
 **Full-Stack Development & Software Architecture**
 - 🏗️ Building Scalable Web Applications
-- 🔌 API Design & Backend Systems
+- 🔌 API Design & System Design
 - 💻 Frontend Performance Optimization
 - 🔐 Clean Code & Software Design Patterns
 
@@ -34,9 +34,8 @@
 - 📚 NLP & Advanced AI Applications
 
 ---
----
 
-## 🌙 About Me
+# 🌙 About Me
 
 Certified night owl — my best code (and worst decisions) both happen after midnight.
 
