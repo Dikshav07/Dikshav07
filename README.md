@@ -2,6 +2,8 @@
 
 **Software Developer** | Frontend • Backend • AI & ML | Night Owl Coder 🦉
 
+📧 **Reach out:** [dikshav737@gmail.com](mailto:dikshav737@gmail.com)
+
 ---
 
 ## 💻 Technical Skills
@@ -36,11 +38,11 @@
 
 ## 📊 GitHub Analytics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dikshav07&show_icons=true&theme=radical&hide_border=true)
+<div align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Dikshav07&show_icons=true&theme=radical&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dikshav07&layout=compact&theme=radical&hide_border=true" />
+</div>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dikshav07&layout=compact&theme=radical&hide_border=true)
-
-![Contribution Streak](https://github-readme-streak-stats.herokuapp.com/?user=Dikshav07&theme=radical)
 
 ---
 
