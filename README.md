@@ -37,16 +37,13 @@ Certified night owl — my best code (and worst decisions) both happen after mid
 ---
 
 ## 📊 GitHub Analytics
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Dikshav07&show_icons=true&theme=radical&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dikshav07&layout=compact&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dikshav07&layout=compact&theme=radical&hide_border=true&card_width=400" width="48%" />
 </p>
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dikshav07&theme=radical" width="60%" />
 </p>
-
 
 ---
 
