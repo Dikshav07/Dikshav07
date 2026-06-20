@@ -1,32 +1,42 @@
 # 👋 Hi, I'm Diksha Verma
 
-**Software Developer** | Frontend • Backend • ML & LLMs | Night Owl Coder 🦉
+**Software Developer** | Frontend • Backend • AI & ML | Night Owl Coder 🦉
 
 ---
 
 ## 💻 Technical Skills
 
-| **Frontend** | **Backend** | **ML & LLMs** | **DevOps** |
+| **Frontend** | **Backend** | **DevOps & Tools** | **AI & ML** |
 |---|---|---|---|
-| React • Vue.js | Node.js • Express • Python | Machine Learning • LLMs | Docker • AWS • Git |
-| JavaScript • Responsive Design | RESTful APIs • Databases | NLP • Prompt Engineering | CI/CD • GitHub Actions |
+| React • Vue.js • JavaScript | Node.js • Express • Python | Docker • AWS • Git • CI/CD | Machine Learning • NLP |
+| Responsive Design • UI/UX | RESTful APIs • Databases | GitHub Actions | Data Science |
 
 ---
 
 ## 🚀 Current Focus
 
-**Large Language Models (LLMs)**
-- 🧠 LLM Architecture & Fine-tuning
-- 💬 Prompt Engineering & Optimization
-- 🔗 LLM Integration in Production
-- 📚 NLP & Text Understanding
+**Full-Stack Development & Software Architecture**
+- 🏗️ Building Scalable Web Applications
+- 🔌 API Design & Backend Systems
+- 💻 Frontend Performance Optimization
+- 🔐 Clean Code & Software Design Patterns
+
+---
+
+## 🌱 Currently Learning
+
+**Artificial Intelligence & Machine Learning**
+- 🧠 Large Language Models (LLMs)
+- 💬 Prompt Engineering & LLM Integration
+- 📊 ML Model Development & Deployment
+- 📚 NLP & Advanced AI Applications
 
 ---
 
 ## 🎯 What You'll Find Here
 
-| 🧠 ML & LLM Projects | 💻 Full-Stack Apps | 🔧 Tools & Utilities | 📚 Learning Resources |
-|---|---|---|---|
+| 💻 Full-Stack Projects | 🔧 Backend Systems | 🎨 Frontend Applications | 🤖 AI/ML Experiments | 📚 Learning Resources |
+|---|---|---|---|---|
 
 ---
 
@@ -38,9 +48,19 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dikshav07&show_icons=true&theme=radical&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dikshav07&layout=compact&theme=radical&hide_border=true)
+
+![Contribution Streak](https://github-readme-streak-stats.herokuapp.com/?user=Dikshav07&theme=radical)
+
+---
+
+## 📈 Activity Metrics
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Dikshav07&theme=radical&hide_border=true)
 
 ---
 
