@@ -27,14 +27,14 @@
 ---
 
 
-## 🚀 Current Focus
+## 🚀 Current Focus & Learning
 
 **Full-Stack Development & Software Architecture**
 - 🏗️ Building Scalable Web Applications
 - 🔌 System Design & Distributed Systems
-- 💻 Frontend Performance Optimization
+- 💻 Competitive Programming (C++)
 - 🧠 Large Language Models (LLMs) & Prompt Engineering
-- 🐳 Docker, Azure & Cloud Deployment (AWS)
+- ☁️ Cloud & Deployment (Docker, AWS)
 - 🔐 Clean Code & Software Design Patterns
 
 ---
