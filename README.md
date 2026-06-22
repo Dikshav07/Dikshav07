@@ -21,7 +21,7 @@
 
 | **Frontend** | **Backend** | **DevOps & Tools** | **AI & ML** |
 |---|---|---|---|
-| React • JavaScript • TypeScript | Node.js • Express • Python | Docker • AWS • Git | Machine Learning • NLP |
+| React • JavaScript • HTML/CSS | Node.js • Express • Python | Docker • AWS • Git | Machine Learning • NLP |
 | Responsive Design • REST APIs | MongoDB • SQL | GitHub • Linux | Data Science • Scikit-learn |
 
 ---
@@ -31,12 +31,9 @@
 ```
 Full-Stack Development & Software Architecture
 ```
-**Building on:**
 - ⚙️ System Design & Software Architecture
 - 🔌 Backend Development & Real-time Systems
 - 🤖 AI/ML Engineering (specialization)
-
-**Currently learning:**
 - ☁️ Cloud & Deployment (Docker, AWS)
 - 🏛️ Distributed Systems
 - 💻 Competitive Programming (C++)
