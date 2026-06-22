@@ -1,7 +1,12 @@
-# 👋 Hi, I'm Diksha Verma
+<h1 align="center">👋 Hi, I'm Diksha Verma</h1>
 
-**Software Developer** | Frontend • Backend • AI & ML 
+<p align="center">
+  <strong>Software Developer</strong> &nbsp;•&nbsp; Frontend • Backend • AI &amp; ML
+</p>
 
+<p align="center">
+  Building user-friendly web apps and ML prototypes.
+</p>
 
 <p align="center">
   <a href="mailto:dikshav737@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Email-Contact-D14836?logo=gmail&logoColor=white"></a>
