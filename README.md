@@ -21,29 +21,33 @@
 
 | **Frontend** | **Backend** | **DevOps & Tools** | **AI & ML** |
 |---|---|---|---|
-| React • TypeScript • JavaScript | Node.js • Express • Python | Docker • AWS • Git • CI/CD | Machine Learning • NLP |
-| Responsive Design • State Management |  API Development • Databases | GitHub Actions | Data Science |
+| React • JavaScript • TypeScript | Node.js • Express • Python | Docker • AWS • Git | Machine Learning • NLP |
+| Responsive Design • REST APIs | MongoDB • SQL | GitHub • Linux | Data Science • Scikit-learn |
 
 ---
 
 
 ## 🚀 Current Focus & Learning
+```
+Full-Stack Development & Software Architecture
+```
+**Building on:**
+- ⚙️ System Design & Software Architecture
+- 🔌 Backend Development & Real-time Systems
+- 🤖 AI/ML Engineering (specialization)
 
-**Full-Stack Development & Software Architecture**
-- 🏗️ Building Scalable Web Applications
-- 🔌 System Design & Distributed Systems
-- 💻 Competitive Programming (C++)
-- 🧠 Large Language Models (LLMs) & Prompt Engineering
+**Currently learning:**
 - ☁️ Cloud & Deployment (Docker, AWS)
-- 🔐 Clean Code & Software Design Patterns
+- 🏛️ Distributed Systems
+- 💻 Competitive Programming (C++)
 
 ---
 
-
-
 # 🌙 About Me
 
-Certified night owl — my best code (and worst decisions) both happen after midnight.
+CS grad with an AI/ML specialization — I like hard problems,clean systems, and shipping code that works in production, not just on localhost.
+
+**Fun fact:** Certified night owl — my best code (and worst decisions) both happen after midnight.
 
 ---
 
