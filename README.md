@@ -42,9 +42,9 @@ Full-Stack Development & Software Architecture
 
 # 🌙 About Me
 
-CS grad with an AI/ML specialization — I like hard problems,clean systems, and shipping code that works in production, not just on localhost.
+CS grad with an AI/ML specialization - I like hard problems,clean systems, and shipping code that works in production, not just on localhost.
 
-**Fun fact:** Certified night owl — my best code (and worst decisions) both happen after midnight.
+**Fun fact :** Certified night owl - my best code (and worst decisions) both happen after midnight.
 
 ---
 
