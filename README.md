@@ -1,11 +1,11 @@
 <h1 align="center">👋 Hi, I'm Diksha Verma</h1>
 
 <p align="center">
-  <strong>Software Developer</strong> &nbsp;•&nbsp; Frontend • Backend • AI &amp; ML
+  <strong>Software Engineer</strong> &nbsp;•&nbsp; Full-Stack (MERN) &nbsp;•&nbsp; AI &amp; ML &nbsp;•&nbsp; Systems Design &nbsp;•&nbsp; C++
 </p>
 
 <p align="center">
-  Building user-friendly web apps and ML prototypes.
+  From DSA to deployment — I build things end to end.
 </p>
 
 <p align="center">
