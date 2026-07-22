@@ -10,7 +10,6 @@
 
 <p align="center">
   <a href="mailto:dikshav737@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Email-Contact-D14836?logo=gmail&logoColor=white"></a>
-  <a href="https://linkedin.com/in/diksha-verma-15a067250/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Diksha Verma-0A66C2?logo=linkedin&logoColor=white"></a>
   <a href="https://www.codechef.com/users/dikshav11"><img alt="CodeChef" src="https://img.shields.io/badge/CodeChef-dikshav11-FF6A00?logo=codechef&logoColor=white"></a>
   <a href="https://leetcode.com/u/diksha_97/"><img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-diksha__97-FE7A16?logo=leetcode&logoColor=white"></a>
 </p>
